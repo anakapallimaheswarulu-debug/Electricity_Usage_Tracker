@@ -1,17 +1,30 @@
-# electricity_usage_tracker
+# Electricity Usage Tracker
 
-A new Flutter project.
+A Flutter application for tracking electricity consumption, estimating electricity bills, and monitoring monthly usage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built using Flutter and Dart.
 
-A few resources to get you started if this is your first Flutter project:
+### Main Features
+- User Registration and Login
+- Electricity Meter Reading Entry
+- Monthly Electricity Usage Tracking
+- Estimated Electricity Bill
+- Usage History
+- Analytics and Charts
+- High Usage Alerts
+- SQLite Local Database
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Technologies Used
+- Flutter
+- Dart
+- SQLite
+- Visual Studio Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run the Project
+
+```bash
+flutter pub get
+flutter run
+```
